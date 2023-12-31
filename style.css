@@ -1,0 +1,20 @@
+.main {
+  text-align: center;
+}
+
+#dob {
+  width: 300px;
+  height: 35px;
+}
+
+.btn {
+  margin: 30px;
+  height: 40px;
+}
+p {
+  text-align: center;
+  margin: 1px;
+}
+#displayFormat {
+  text-align: center;
+}
